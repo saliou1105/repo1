@@ -1,4 +1,3 @@
-total 40
 drwxr-xr-x 7 saliou saliou 4096 sep 11 21:49 .
 drwxr-xr-x 3 saliou saliou 4096 sep 11 21:51 ..
 drwxr-xr-x 2 saliou saliou 4096 sep 11 21:49 branches
@@ -9,3 +8,4 @@ drwxr-xr-x 2 saliou saliou 4096 sep 11 21:49 hooks
 drwxr-xr-x 2 saliou saliou 4096 sep 11 21:49 info
 drwxr-xr-x 4 saliou saliou 4096 sep 11 21:49 objects
 drwxr-xr-x 4 saliou saliou 4096 sep 11 21:49 refs
+licence!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
